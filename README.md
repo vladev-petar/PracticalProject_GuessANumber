@@ -3,7 +3,7 @@
 
 (==*Exercising on working with GitHub*[^1] :joy: ==)
 
-![number-guessing-java-game.jpg] (https://github.com/vladev-petar/PracticalProject_GuessANumber/blob/main/number-guessing-java-game.jpg)
+![number-guessing-java-game.jpg](https://github.com/vladev-petar/PracticalProject_GuessANumber/blob/main/number-guessing-java-game.jpg)
 
 The rules of the game are quite simple. Try to guess the number, randomly chosen by computer, between 0-100. If your guess is higher that the number, you'll receive a message "Too high...", or if you guess lower, then you'll get a message "Too low...". You may also end the game as you choose, by entering "F" for "Finish". But before that, you may as well spend some time, enjoying this console game, taking your chance against the computer 😄. 
 
