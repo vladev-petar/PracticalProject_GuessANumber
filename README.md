@@ -8,3 +8,5 @@
 
 
 [^1]:==*SoftUni*==
+[source code] (src/PracticalProject_GuessANumber.java)
+[source code] (https://github.com/vladev-petar/PracticalProject_GuessANumber/blob/main/src/PracticalProject_GuessANumber.java)
