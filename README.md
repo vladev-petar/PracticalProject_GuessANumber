@@ -13,8 +13,6 @@ The rules of the game are quite simple. Try to guess the number, randomly chosen
 
 ![Game.png](https://github.com/vladev-petar/PracticalProject_GuessANumber/blob/main/Game.png) 
 
-[==Gameplay==] 
-
 ![Game (1).png](https://github.com/vladev-petar/PracticalProject_GuessANumber/blob/main/Game%20(1).png) 
 
 [==To exit the game: enter "F" for "Finish"==] 
