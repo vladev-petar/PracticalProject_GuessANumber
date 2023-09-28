@@ -1,5 +1,5 @@
 # PracticalProject_GuessANumber
-"Guess A Number" is a simple game, which is part of the practical exercises, in studying with "SoftUni"
+##*"Guess A Number" is a simple game, which is part of the practical exercises, in studying with "SoftUni"*##
 
 The goals of this project are to use some simple logic, such as a "Guess A Number" game, so as to utilise my own ideas in order to further develop the logic, by adding more features of my own, make the game better, or more complicated, or more advanced, or else, thus pricticing my coding skills, as well as exercising handling of a GitHub repository.
 
@@ -23,7 +23,12 @@ The rules of the game are quite simple. Try to guess the number, randomly chosen
 
 ![Game (2).png](https://github.com/vladev-petar/PracticalProject_GuessANumber/blob/main/Game%20(2).png)
 
+**You can play the game directly in your browser here:**
 
-[source code] (https://github.com/vladev-petar/PracticalProject_GuessANumber/blob/main/src/PracticalProject_GuessANumber.java)
+[==live demo==] (https://replit.com/@vladev-petar/PracticalProjectGuessANumber#Main.java)
+
+![Game (3) - live demo.png](https://github.com/vladev-petar/PracticalProject_GuessANumber/blob/main/Game%20(3)%20-%20live%20demo.png)
+
+**[source code]** (https://github.com/vladev-petar/PracticalProject_GuessANumber/blob/main/src/PracticalProject_GuessANumber.java)
 
 [^1]:==*SoftUni*==
