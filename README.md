@@ -1,5 +1,5 @@
 # PracticalProject_GuessANumber
-##*"Guess A Number" is a simple game, which is part of the practical exercises, in studying with "SoftUni"*##
+##*"Guess A Number" is a simple game, which is part of the practical exercises, in studying with "SoftUni"*
 
 The goals of this project are to use some simple logic, such as a "Guess A Number" game, so as to utilise my own ideas in order to further develop the logic, by adding more features of my own, make the game better, or more complicated, or more advanced, or else, thus pricticing my coding skills, as well as exercising handling of a GitHub repository.
 
